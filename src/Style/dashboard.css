@@ -1,0 +1,39 @@
+ .bg-custom-1 {
+    background-color: #85144b;
+}
+
+.bg-custom-2 {
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+.navbar .collapse a{
+    margin-left: 270vh;
+    
+}
+
+.navbar span h4{
+    margin-left: 2vh;
+    margin-bottom: 5vh;
+}
+
+.navbar a{
+    display: flex;
+    
+}
+
+.vh-100 .container .row .col .card .card-body .table tbody tr td .btn{
+    
+    display: flex;
+}
+
+.vh-100 .container .row .col .card .card-body .table tbody tr td .btn  img{
+    width: 1.5vw;
+    margin-right: 2vh;
+}
+
+.vh-100 .container .row .col .card .card-body .table tbody tr td .btn span .dropdown button{
+   background-color: transparent;
+   border: none;
+   color: grey;
+    
+}

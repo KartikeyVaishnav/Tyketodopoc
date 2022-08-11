@@ -1,0 +1,67 @@
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+#submit {
+    background-color: black;
+    padding: 1vh 25vh 1vh 25vh;
+    border-color: black;
+    
+}
+#submit:hover{
+    background-color: white;
+    color: black;
+    font-weight: 600;
+}
+
+.col-md-7 .btn {
+    background-color: black;
+    color: white;
+}
+
+#signdiv img {
+    margin-right: 1vh;
+
+}
+
+form {
+    margin-top: 20vh;
+}
+
+#createbtn2 {
+    padding: 1vh 15vh 1vh 15vh;
+    background-color: white;
+    color: black;
+    border-color: black;
+    margin-bottom: 10vh;
+
+}
+#createbtn2:hover{
+background-color: black;
+color: white;
+
+}
+
+#signdiv {
+    font-weight: 600;
+}
+
+#signdiv #leftarr {
+    margin-right: 25vh;
+}
+
+form h2 {
+    margin-left: 0;
+    margin-bottom: 5vh;
+    font-size: 48px;
+
+}
+
+form p{
+    color: #009DDC;
+    margin-top: 0;
+}

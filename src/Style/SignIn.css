@@ -1,0 +1,48 @@
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+#submit{
+    background-color: black;
+    padding: 1vh 25vh 1vh 25vh;
+}
+
+.col-md-7  .btn{
+    background-color: black;
+    color: white;
+}
+
+#signdiv img{
+    margin-right: 1vh;
+    
+}
+
+form{
+    margin-top: 20vh;
+}
+
+#createbtn2{
+    padding: 1vh 15vh 1vh 15vh;
+    background-color: white;
+    color: black;
+
+}
+
+#signdiv{
+    font-weight: 600;
+}
+
+#signdiv #leftarr{
+    margin-right: 25vh;
+}
+
+form h2{
+    margin-left: 0;
+    margin-bottom: 5vh;
+    font-size: 48px;
+    
+}
